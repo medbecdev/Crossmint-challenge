@@ -4,6 +4,10 @@
 
 This repository contains several JavaScript files that offer various functionalities, from interacting with an API to drawing geometric shapes and managing data.
 
+## Testing
+
+You can test the functionality of the files by running `callApi.js` from the terminal using the `node callApi.js` command. Please ensure that Node.js is installed on your system before running the command.
+
 ## Files
 
 1. **callApi.js**
